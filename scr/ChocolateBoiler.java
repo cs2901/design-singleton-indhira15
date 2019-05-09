@@ -1,7 +1,7 @@
 public class ChocolateBoiler {
     private boolean empty;
     private boolean boiled;
-    
+
     public ChocolateBoiler() {
         empty = true;
         boiled = false;
